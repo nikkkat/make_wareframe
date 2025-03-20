@@ -1,0 +1,1 @@
+This program is designed to create a wireframe model from an obj file. The user selects the obj file of the 3D model and enters it. The program reads the obj line by line and takes the coordinates of the vertices, edge normals and face data. These coordinates then describe the model in the window. By transforming the coordinate matrix, the user can rotate the model and scale it.
