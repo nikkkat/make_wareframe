@@ -1,0 +1,13 @@
+D:\6sem\akg\lab1\lab1_lines\lab1_lines\bin\Release\lab1_lines.exe.config
+D:\6sem\akg\lab1\lab1_lines\lab1_lines\bin\Release\lab1_lines.exe
+D:\6sem\akg\lab1\lab1_lines\lab1_lines\bin\Release\lab1_lines.pdb
+D:\6sem\akg\lab1\lab1_lines\lab1_lines\bin\Release\System.Numerics.Vectors.dll
+D:\6sem\akg\lab1\lab1_lines\lab1_lines\bin\Release\System.Numerics.Vectors.xml
+D:\6sem\akg\lab1\lab1_lines\lab1_lines\obj\Release\lab1_lines.csproj.AssemblyReference.cache
+D:\6sem\akg\lab1\lab1_lines\lab1_lines\obj\Release\lab1_lines.WireframeRenderer.resources
+D:\6sem\akg\lab1\lab1_lines\lab1_lines\obj\Release\lab1_lines.Properties.Resources.resources
+D:\6sem\akg\lab1\lab1_lines\lab1_lines\obj\Release\lab1_lines.csproj.GenerateResource.cache
+D:\6sem\akg\lab1\lab1_lines\lab1_lines\obj\Release\lab1_lines.csproj.CoreCompileInputs.cache
+D:\6sem\akg\lab1\lab1_lines\lab1_lines\obj\Release\lab1_lines.csproj.Up2Date
+D:\6sem\akg\lab1\lab1_lines\lab1_lines\obj\Release\lab1_lines.exe
+D:\6sem\akg\lab1\lab1_lines\lab1_lines\obj\Release\lab1_lines.pdb
